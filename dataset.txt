@@ -1,0 +1,4 @@
+Download the dataset from here
+
+Link: http://opihi.cs.uvic.ca/sound/genres.tar.gz
+
