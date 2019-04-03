@@ -1,0 +1,13 @@
+Install Python Libraries
+
+1. Librosa
+2. Tensorflow
+3. Keras
+4. Numpy
+5. Pandas
+6. Matplotlib
+7. os
+8. pathlib
+9. sklearn
+10. scipy
+11. matplotlib
