@@ -1,5 +1,5 @@
 # Music-genre-Classification-and-Prediction-System
-This is a Machine Learning which classifies and predicts the music genre from songs of .wav format
+This is a Machine Learning project which classifies and predicts the music genre from songs of .wav format
 
 
 #DATASET
